@@ -38,7 +38,7 @@ Data Sentinel: Azure's PII Looker is a Streamlit application for extracting, det
 ### Steps
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/data-sentinel.git
+   git clone https://github.com/harvinderkaur02/Data-Sentinel-Azure-s-PII-Looker
    cd data-sentinel
    
 2. **Install Dependencies**:
